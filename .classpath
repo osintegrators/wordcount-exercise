@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_25"/>
-	<classpathentry kind="lib" path="/home/prhodes/Downloads/apache/hadoop/hadoop-1.2.1/hadoop-client-1.2.1.jar"/>
-	<classpathentry kind="lib" path="/home/prhodes/Downloads/apache/hadoop/hadoop-1.2.1/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-1.2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
